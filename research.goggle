@@ -1,29 +1,29 @@
 ! name: Academia
 ! description: bla bla
-! public: true
+! public: false
 ! author: zelosleone
 ! avatar: #ca0800
 
 *.pdf$boost=2
 
-jstor.org$boost=4
-pubmed.ncbi.nlm.nih.gov$boost=4
-sino-platonic.org$boost=4
-arxiv.org$boost=4
-biorxiv.org$boost=4
-dergipark.org.tr$boost=4
-tez.yok.gov.tr$boost=4
-link.springer.com$boost=4
-researchgate.net$boost=4
-perseus.tufts.edu$boost=4
-academia.edu$boost=4
-wordpress.com$boost=4
-blogger.com$boost=4
-scirp.org$boost=4
-cnki.net$boost=4
-oversea.cnki.net$boost=4
-loebclassics.com$boost=4
-wisdomlib.org$boost=4
-archive.org$boost=4
-sanskritdocuments.org$boost=4
-shastras.com$boost=4
+jstor.org$boost=3
+pubmed.ncbi.nlm.nih.gov$boost=3
+sino-platonic.org$boost=3
+arxiv.org$boost=3
+biorxiv.org$boost=3
+dergipark.org.tr$boost=3
+tez.yok.gov.tr$boost=3
+link.springer.com$boost=3
+researchgate.net$boost=3
+perseus.tufts.edu$boost=3
+academia.edu$boost=3
+wordpress.com$boost=3
+blogger.com$boost=3
+scirp.org$boost=3
+cnki.net$boost=3
+oversea.cnki.net$boost=3
+loebclassics.com$boost=3
+wisdomlib.org$boost=3
+archive.org$boost=3
+sanskritdocuments.org$boost=3
+shastras.com$boost=3
