@@ -1,0 +1,35 @@
+! name: Academia
+! description: Rerank results to boost content on tech blogs. List of tech blogs drawn from several sources (blogsurf.io, refined.blog, et al), and not vetted or endorsed by Brave.
+! public: false
+! author: zelosleone
+! avatar: 
+
+$discard
+$downrank,site=medium.com
+
+$boost=3,site=jstor.org
+$boost=3,site=pubmed.ncbi.nlm.nih.gov
+$boost=3,site=sino-platonic.org
+$boost=3,site=arxiv.org
+$boost=3,site=biorxiv.org
+$boost=3,site=dergipark.org.tr
+$boost=3,site=tez.yok.gov.tr
+$boost=3,site=link.springer.com
+$boost=3,site=researchgate.net
+$boost=3,site=perseus.tufts.edu
+$boost=3,site=academia.edu
+$boost=3,site=wordpress.com
+$boost=3,site=blogger.com
+$boost=3,site=scirp.org
+$boost=3,site=cnki.net
+$boost=3,site=oversea.cnki.net
+$boost=3,site=loebclassics.com
+$boost=3,site=wisdomlib.org
+$boost=3,site=archive.org
+$boost=3,site=sanskritdocuments.org
+$boost=3,site=shastras.com
+
+
+
+
+
